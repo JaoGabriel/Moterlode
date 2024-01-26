@@ -1,0 +1,5 @@
+CREATE TABLE Categoria (
+  id uuid PRIMARY KEY,
+  nome VARCHAR NOT NULL,
+  logo VARCHAR NOT NULL
+);
